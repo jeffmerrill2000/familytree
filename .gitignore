@@ -1,0 +1,13 @@
+# Secrets and Local Configurations
+.env
+.env.local
+
+.grok/
+*.log
+.DS_Store
+.vscode
+
+# Java / Maven Build Assets
+backend/target/
+frontend/node_modules/
+frontend/dist/
